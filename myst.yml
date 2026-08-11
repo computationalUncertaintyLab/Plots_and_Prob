@@ -9,7 +9,9 @@ project:
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
-    - title: Part I — Statistical Machinery 
+    # First entry must be a file (site root / landing page)
+    - file: index.md
+    - title: Part I — Statistical Machinery
       children:
         - file: population_sample.ipynb
           title: Sampling, Populations, and Experiments
