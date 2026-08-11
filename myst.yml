@@ -9,7 +9,6 @@ project:
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   project:
-  title: Plots and Probability
   toc:
     - title: Part I — Statistical Machinery 
       children:
@@ -21,7 +20,6 @@ project:
       children:
         - file: SOEP.ipynb
           title: Sets, Outcomes, Experiments, and Probabilities
-   
 site:
   template: book-theme
   # options:
