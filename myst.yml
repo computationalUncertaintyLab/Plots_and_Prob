@@ -8,7 +8,6 @@ project:
   # authors: [mcandrew]
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
-  project:
   toc:
     - title: Part I — Statistical Machinery 
       children:
