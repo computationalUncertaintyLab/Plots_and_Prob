@@ -16,7 +16,9 @@ project:
         - file: population_sample.ipynb
           title: Sampling, Populations, and Experiments
         - file: experiments_outcomes_and_datapoints.ipynb
-	  title: Experiments, Outcomes, and Datapoints
+          title: Experiments, Outcomes, and Datapoints
+        - file: data_viz.ipynb
+          title: Data Visualization
         - file: EDA.ipynb
           title: Exploratory Data Analysis
     - title: Part II — Probability, a world of exactness
