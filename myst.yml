@@ -27,7 +27,9 @@ project:
           title: Sets, Outcomes, Experiments, and Probabilities
         - file: LLN.ipynb
           title: The Law of Large Numbers
-
+        - file: rvs_and_risks.ipynb
+          title: Random variables, Risk, and the Poisson distribution
+	  
 site:
   template: book-theme
   # options:
