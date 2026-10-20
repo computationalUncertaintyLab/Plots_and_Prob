@@ -25,6 +25,8 @@ project:
       children:
         - file: SOEP.ipynb
           title: Sets, Outcomes, Experiments, and Probabilities
+        - file: templates.ipynb
+          title: Probability templates
         - file: LLN.ipynb
           title: The Law of Large Numbers
         - file: rvs_and_risks.ipynb
